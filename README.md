@@ -1,2 +1,1 @@
-# miniproject
-coffee machine building
+# coffee-machine-building
